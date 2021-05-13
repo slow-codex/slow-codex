@@ -15,4 +15,3 @@
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slow-codex&theme=dark" alt="slow-codex" /></p>
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slow-codex&repo=github-readme-stats&theme-dark" alt="slow-codex" /></p>
