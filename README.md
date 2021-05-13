@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slow-codex&label=Profile%20views&color=0e75b6&style=flat" alt="slow-codex" /> </p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=slow-codex&show_icons=true&locale=en" alt="slow-codex" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=slow-codex&show_icons=true&theme=dark" alt="slow-codex" /></p>
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slow-codex" alt="slow-codex" /></a> </p>
 
