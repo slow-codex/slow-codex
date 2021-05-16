@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arnab Dutta</h1>
+<h1 align="center">Hello There! 👋, I'm Arnab Dutta</h1>
 <h3 align="center">Currently learning Web Development and using my knowledge in personal projects</h3>
 <h3 align="center">In search of a Web Developer Intership</h3>
 
