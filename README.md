@@ -16,3 +16,5 @@
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slow-codex&theme=dark" alt="slow-codex" /></p>
 <br>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="arnab-dutta-1048" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/arnab-dutta-1048?trk=profile-badge">Arnab Dutta</a></div>
+<br>
