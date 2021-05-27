@@ -1,5 +1,5 @@
 <h1 align="center">Hello There! 👋, I'm Arnab Dutta</h1>
-<h3 align="center">Currently learning Web Development and using my knowledge in personal projects</h3>
+<h3 align="center">Listening, Learning and Utilising.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slow-codex&label=Profile%20views&color=0e75b6&style=flat" alt="slow-codex" /> </p>
 <br>
 <img align="center" alt="GIF" height="500" width="900" src="https://steamuserimages-a.akamaihd.net/ugc/1288542196648806932/B0716CA631D155EF6E105102F47E6E79083045C8/" />
