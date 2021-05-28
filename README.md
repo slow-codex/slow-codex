@@ -6,7 +6,7 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-slow-codex.vercel.app/api?username=slow-codex&show_icons=true&theme=dark&count_private=true" alt="slow-codex" /></p>
 <br>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@slow_codex/55676276-e184-4200-a81b-104408c046d4.png" /></a>
+<a href="https://wakatime.com"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=slow_codex" /></a>
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
