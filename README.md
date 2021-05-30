@@ -4,7 +4,7 @@
 <br>
 <img align="center" alt="GIF" height="500" width="900" src="https://steamuserimages-a.akamaihd.net/ugc/1288542196648806932/B0716CA631D155EF6E105102F47E6E79083045C8/" />
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats-slow-codex.vercel.app/api?username=slow-codex&show_icons=true&theme=dark&count_private=true" alt="slow-codex" /></p>
+<p style={border: white solid 1px}>&nbsp;<img align="center" src="https://github-readme-stats-slow-codex.vercel.app/api?username=slow-codex&show_icons=true&theme=dark&count_private=true" alt="slow-codex" /></p>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
