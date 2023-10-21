@@ -1,8 +1,8 @@
 <h1 align="center">Hello There! 👋, I'm Arnab Dutta</h1>
 <h3 align="center">Listening, Learning and Utilising.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slow-codex&label=Profile%20views&color=0e75b6&style=flat" alt="slow-codex" /> </p>
-<br>
-<img align="center" alt="GIF" height="500" width="900" src="https://steamuserimages-a.akamaihd.net/ugc/1288542196648806932/B0716CA631D155EF6E105102F47E6E79083045C8/" />
+<!-- <br> -->
+<!-- <img align="center" alt="GIF" height="500" width="900" src="https://steamuserimages-a.akamaihd.net/ugc/1288542196648806932/B0716CA631D155EF6E105102F47E6E79083045C8/" /> -->
 <br>
 <p style={border: white solid 1px}>&nbsp;<img align="center" src="https://github-readme-stats-slow-codex.vercel.app/api?username=slow-codex&show_icons=true&theme=dark&count_private=true" alt="slow-codex" /></p>
 <br>
